@@ -1,5 +1,5 @@
 <h1>hashid</h1>
-<h3>setup<h3>
+<h3>setup</h3>
 to use this project, run
 
     python3 ./hashid.py your_hash_string
